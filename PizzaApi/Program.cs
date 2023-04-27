@@ -44,7 +44,7 @@ app.MapGet("/{DoughBallsAmuot}/{DoughBallWeight}", (int DoughBallsAmuot,int Doug
         6.  Flatten the dough ball, and stretch out into a round, add pizza sause.
         7.  Brush the dough top with olive oil.
         8.  Bake it for 2-3 min, then remove it from oven, and add mozzarella and your favorite ingredients.
-        9.  Put it again in the oven until the cheese is melted
+        9.  Put it again in the oven until the cheese is melted.
     """;
     return recipe;
 });
